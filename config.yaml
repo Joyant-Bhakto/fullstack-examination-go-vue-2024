@@ -1,0 +1,6 @@
+ui:
+  url: http://localhost:3000
+swaggerServer:
+  enable: true
+sqLite:
+  dbFilename: "tmp/gorm.db"
